@@ -70,23 +70,3 @@ This course is designed to help **data scientists**, **backend developers**, and
 git clone https://github.com/your-username/fastapi-course.git
 cd fastapi-course
 ```
-
----
-
-## 🤝 Contributing
-
-Feel free to fork this repo, open issues, and submit pull requests.
-
----
-
-## 👨‍💻 Author
-
-Made with ❤️ by Misbah
-
----
-
-## 😇 Connect
-
-Feel free to connect:
-- [Email](mailto:misbahullahsheriff@gmail.com)
-- [LinkedIN](https://www.linkedin.com/in/mohammed-misbahullah-sheriff/)
